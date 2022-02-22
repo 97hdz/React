@@ -1,0 +1,23 @@
+.main-content {
+    background-color: #1A1B21;
+    color:white;
+    margin-top: 0;
+
+    //About
+    :first-child{
+        margin-top: 0;
+    }
+}
+
+.main-text-only {
+    padding: 0 2rem 3rem;
+
+    .about {
+        margin: 0;
+    }
+
+    .interests {
+        margin-bottom: 0;
+    }
+
+}

@@ -1,0 +1,13 @@
+.footer-content {
+  background-color: #161619;
+  padding: 1rem;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  display: flex;
+  justify-content: center;
+}
+.footer-content .container-footer {
+  width: 50%;
+  justify-content: space-around;
+  display: flex;
+}/*# sourceMappingURL=Footer.css.map */

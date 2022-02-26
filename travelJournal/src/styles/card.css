@@ -1,0 +1,46 @@
+body {
+  background-color: #F5F5F5;
+}
+
+.separator {
+  max-width: 800px;
+  width: 80%;
+  color: white;
+}
+
+.all-card {
+  display: flex;
+  justify-content: center;
+  background-color: #F5F5F5;
+}
+
+.card {
+  max-width: 800px;
+  background-color: #F5F5F5;
+  padding: 1rem 1rem;
+  display: flex;
+  align-items: center;
+}
+.card .card-main {
+  padding-left: 1rem;
+}
+.card .card-main img {
+  width: 20px;
+  height: 20px;
+  margin-right: 3px;
+}
+.card .card-main .card-location {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  align-items: center;
+  display: flex;
+  padding-bottom: 0.2rem;
+}
+.card .card-main .card-place {
+  font-weight: 700;
+  font-size: 1.8rem;
+}
+.card .card-main .dates {
+  font-weight: bold;
+  color: #4b4b4b;
+}/*# sourceMappingURL=card.css.map */

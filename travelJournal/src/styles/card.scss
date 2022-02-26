@@ -1,0 +1,53 @@
+body {
+    background-color: #F5F5F5;
+}
+
+.separator {
+    max-width: 800px;
+    width: 80%;
+    color: white;
+
+}
+
+.all-card {
+    display: flex;
+    justify-content: center;
+    background-color: #F5F5F5;
+}
+
+.card {
+    max-width: 800px;
+    background-color: #F5F5F5;
+    padding: 1rem 1rem;
+    display: flex;
+    align-items: center;
+
+    .card-main {
+        padding-left: 1rem;
+
+        img {
+            width: 20px;
+            height: 20px;
+            margin-right: 3px;
+        }
+
+        .card-location {
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            align-items: center;
+            display: flex;
+            padding-bottom: 0.2rem;
+        }
+
+        .card-place {
+            font-weight: 700;
+            font-size: 1.8rem;
+        }
+
+        .dates {
+            font-weight: bold;
+            color: rgb(75, 75, 75);
+        }
+    }
+
+}

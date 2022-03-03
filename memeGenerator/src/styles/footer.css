@@ -1,0 +1,13 @@
+footer {
+  padding-top: 1rem;
+  position: fixed;
+  bottom: 0;
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+footer p {
+  padding: 0.3rem;
+  margin: 0;
+}/*# sourceMappingURL=footer.css.map */
